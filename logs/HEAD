@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 868c8767cf1b98589eb069f9cf85a645eae083fe jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748298009 +0000	commit (initial): Initial commit
+868c8767cf1b98589eb069f9cf85a645eae083fe 9b2abbfcb2347f694caf2f829efd81b9e607c8d7 jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748298009 +0000	commit: Started building your app
+9b2abbfcb2347f694caf2f829efd81b9e607c8d7 e9f64462e839f2171371a52f1e25091c34094cba jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748298397 +0000	commit: Set up the core web application to scrape products from AliExpress
+e9f64462e839f2171371a52f1e25091c34094cba 29f9df20b6c4048a09dab5e82b92d78a372f6d6e jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748298550 +0000	commit: Improve product finding and debug missing product issues on search pages
+29f9df20b6c4048a09dab5e82b92d78a372f6d6e 72fea3d1e5463703994f9457bcf144f38c33d016 jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748298701 +0000	commit: Improve the web scraper to reliably extract product data from AliExpress
+72fea3d1e5463703994f9457bcf144f38c33d016 56b96f7a38c6964d2555578d28007f9b6a7626fd jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748299360 +0000	commit: Rename scraper class to be more generic and implement an anti-bot check
+56b96f7a38c6964d2555578d28007f9b6a7626fd 5280d1ca73dd6cfcdcca01cc4a023deb19ae9f0c jackxc2024 <43161939-jackxc2024@users.noreply.replit.com> 1748299686 +0000	commit: Switch to scraping product information from eBay instead of AliExpress

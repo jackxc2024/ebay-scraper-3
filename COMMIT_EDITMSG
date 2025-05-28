@@ -1,0 +1,7 @@
+Switch to scraping product information from eBay instead of AliExpress
+
+Refactor scraper.py to target eBay, updating base URL, search parameters, CSS selectors, and adjust templates.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 5b0487cc-e217-432b-adca-d5136554e5d0
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/4afee159-21d9-43c6-b9b5-56e32caa910f/dc082490-4f29-4ea8-8e1d-6b53e012325e.jpg
